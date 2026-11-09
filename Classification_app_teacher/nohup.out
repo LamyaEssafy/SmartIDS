@@ -1,0 +1,197 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:80
+  External URL: http://35.221.133.42:80
+
+/usr/local/lib/python3.10/dist-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator KNeighborsClassifier from version 1.0.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator KNeighborsClassifier from version 1.0.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator KNeighborsClassifier from version 1.0.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator KNeighborsClassifier from version 1.0.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+/usr/local/lib/python3.10/dist-packages/sklearn/base.py:318: UserWarning: Trying to unpickle estimator KNeighborsClassifier from version 1.0.2 when using version 1.2.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+2023-06-14 11:18:30.261 Port 80 is already in use
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.132.64.201:80
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.132.64.201:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:80
+  External URL: http://35.196.47.114:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.67.45.164:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://35.203.128.83:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.30.74.54:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.74.17.194:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2025-05-21 12:20:02.744 Port 80 is already in use
+/usr/local/lib/python3.11/dist-packages/sklearn/base.py:380: InconsistentVersionWarning: Trying to unpickle estimator SVC from version 1.2.2 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+[31m──[0m[31m────────────────────────[0m[31m [0m[1;31mTraceback [0m[1;2;31m(most recent call last)[0m[31m [0m[31m─────────────────────────[0m[31m──[0m
+[31m [0m [2;33m/usr/local/lib/python3.11/dist-packages/streamlit/runtime/scriptrunner/[0m[1;33mexec_code.py[0m: [31m [0m
+[31m [0m [94m121[0m in [92mexec_func_with_error_handling[0m                                                 [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2;33m/usr/local/lib/python3.11/dist-packages/streamlit/runtime/scriptrunner/[0m[1;33mscript_runner[0m [31m [0m
+[31m [0m [1;33m.py[0m:[94m645[0m in [92mcode_to_exec[0m                                                              [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m [2;33m/content/drive/MyDrive/DM_Master_SDSI/Classification_app/[0m[1;33mWebApp.py[0m:[94m4[0m in [92m<module>[0m     [31m [0m
+[31m [0m                                                                                      [31m [0m
+[31m [0m   [2m 1 [0m[94mimport[0m[90m [0m[4;96mstreamlit[0m[90m [0m[94mas[0m[90m [0m[4;96mst[0m                                                          [31m [0m
+[31m [0m   [2m 2 [0m[94mimport[0m[90m [0m[4;96mpickle[0m                                                                   [31m [0m
+[31m [0m   [2m 3 [0m                                                                                [31m [0m
+[31m [0m [31m❱ [0m 4 model=[1;4mpickle.load([0m[1;4;96mopen[0m[1;4m([0m[1;4;33m'[0m[1;4;33mmodel.pkl[0m[1;4;33m'[0m[1;4m,[0m[1;4;33m'[0m[1;4;33mrb[0m[1;4;33m'[0m[1;4m))[0m                                       [31m [0m
+[31m [0m   [2m 5 [0m                                                                                [31m [0m
+[31m [0m   [2m 6 [0m[94mdef[0m[90m [0m[92mclassify[0m(num):                                                              [31m [0m
+[31m [0m   [2m 7 [0m[2m│   [0m[94mif[0m num>[94m0[0m:                                                                   [31m [0m
+[31m────────────────────────────────────────────────────────────────────────────────────────[0m
+[1;91mAttributeError: [0mCan't get attribute [32m'_PredictScorer'[0m on [1m<[0m[1;95mmodule[0m[39m [0m
+[32m'sklearn.metrics._scorer'[0m[39m from [0m
+[32m'/usr/local/lib/python3.11/dist-packages/sklearn/metrics/_scorer.py'[0m[1m>[0m
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2025-05-21 12:58:59.059 Port 80 is already in use
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.23.9.30:80
+
+  Stopping...
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.23.9.30:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2025-05-22 11:14:49.414 Port 80 is already in use
+ternal URL: http://34.23.9.30:8000
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2025-05-22 11:15:38.707 Port 80 is already in use
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.23.229.245:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2025-05-22 11:24:24.470 Port 80 is already in use
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2026-06-17 21:24:59.835 Uvicorn server started on 0.0.0.0:80
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://35.185.144.49:80
+
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2026-06-18 11:27:27.089 Uvicorn server started on 0.0.0.0:80
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:80
+  Network URL: http://172.28.0.12:80
+  External URL: http://34.181.203.76:80
+
